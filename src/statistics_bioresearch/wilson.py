@@ -1,5 +1,5 @@
 import math
-from src.statistics_bioresearch import constants
+from . import constants
 
 
 def wilson_p(prevalence, sample_size, percentile):
